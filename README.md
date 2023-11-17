@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexius Maliuk Dias</h1>
 
-- 🔭 I’m currently working on [an unnamed Java based RPG](https://github.com/Pedro05Souza/RPG)
+- 🔭 I’m currently working on Website Mainenance @ [CARE](https://www.ufrgs.br/care/)
 
 - 🌱 I’m currently learning **Java, C and PHP**
 
