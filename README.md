@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexius Maliuk Dias</h1>
 
-- 🔭 I’m currently working on Website Mainenance @ [CARE](https://www.ufrgs.br/care/)
+- 🔭 I’m currently working @ [Seival](https://seival.com)
 
-- 🌱 I’m currently learning **Java, C and PHP**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AlexiusMD?tab=repositories](https://github.com/AlexiusMD?tab=repositories)
+- 🌱 I’m currently learning **C/C++ and PHP**
 
 - 💬 Ask me about **JavaScript, Lua, Python and Wordpress**
 
