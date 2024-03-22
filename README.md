@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C/C++ and PHP**
 
-- 💬 Ask me about **JavaScript, Lua, Python and Wordpress**
+- 💬 Ask me about **Java, Lua, Python and Wordpress**
 
 - 📫 How to reach me **alexiusmd2004@gmail.com**
 
