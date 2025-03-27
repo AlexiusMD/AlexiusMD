@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexius Maliuk Dias</h1>
 
-- 🔭 I’m currently working @ [Seival](https://seival.com)
+- 🔭 I’m currently working
 
 - 💬 Ask me about **PHP, Laravel, MySQL, HMTL, CSS and JS**
 
