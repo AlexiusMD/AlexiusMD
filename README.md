@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexius Maliuk Dias</h1>
 
-- 🔭 I’m currently working
+- 🔭 I’m currently working @ [Nelogica](https://www.nelogica.com.br/)
 
-- 💬 Ask me about **PHP, Laravel, MySQL, HMTL, CSS and JS**
+- 💬 Ask me about **Delphi, Pascal, C, PHP, Laravel, MySQL and JS**
 
 - 📫 How to reach me **alexiusmaliuk@gmail.com**
 
