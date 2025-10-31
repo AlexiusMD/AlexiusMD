@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexius Maliuk Dias</h1>
 
-- 🔭 I’m currently working @ [Nelogica](https://www.nelogica.com.br/)
+- 🔭 I’m currently working as a research student @ [GMAP](https://gmap.pucrs.br/gmap/en/home/)
 
 - 💬 Ask me about **Delphi, Pascal, C, PHP, Laravel, MySQL and JS**
 
