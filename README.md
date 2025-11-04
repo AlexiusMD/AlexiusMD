@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a research student @ [GMAP](https://gmap.pucrs.br/gmap/en/home/)
 
-- 💬 Ask me about **Delphi, Pascal, C, PHP, Laravel, MySQL and JS**
+- 💬 I mainly work with **C, C++, Java and GO**
 
 - 📫 How to reach me **alexiusmaliuk@gmail.com**
 
