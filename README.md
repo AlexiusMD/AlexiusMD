@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexius Maliuk Dias</h1>
 
-- 🔭 I’m currently working as a research student @ [GMAP](https://gmap.pucrs.br/gmap/en/home/)
+- 🔭 I’m currently working as a research assistant @ [GMAP](https://gmap.pucrs.br/gmap/en/home/)
 
 - 💬 I mainly work with **C, C++, Java and GO**
 
